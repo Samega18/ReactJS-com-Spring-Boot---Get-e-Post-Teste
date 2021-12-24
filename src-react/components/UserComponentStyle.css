@@ -1,0 +1,38 @@
+.CreateUser{
+    display: flex;
+    position: fixed;
+    width: 400px;
+    height: 200px;
+    margin-left: 15px;
+    bottom: 15px;
+    background-color: blueviolet;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.ButtonCreate{
+    display: flex;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.RefreshList{
+    display: flex;
+    width: 100px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+
+    position: fixed;
+    margin-left: 15px;
+    bottom: 15px;
+}

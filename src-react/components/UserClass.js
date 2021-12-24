@@ -1,0 +1,7 @@
+class UserClass{
+
+    FirstName;
+    LastName;
+    
+
+}
